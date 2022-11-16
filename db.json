@@ -6,9 +6,13 @@
       "Description": "afas",
       "Price": "afas",
       "Quatity": "afas"
-      
-     
+    },
+    {
+      "stuname": "Sumityyy",
+      "Description": "asdfs",
+      "Price": "33",
+      "Quatity": "34",
+      "id": 2
     }
-    
   ]
 }
